@@ -19,7 +19,7 @@ MCA Student • DevOps Enthusiast • Python Developer • Java Developer • Fr
 
 # 💫 About Me
 
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="700">
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="700">
 
 🎓 MCA Student
 
