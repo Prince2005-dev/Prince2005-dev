@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Prince2005-dev/Prince2005-dev/main/assets/banner.png" width="100%" alt="Prince Kumar Singh Banner"/>
+  <img src="banner.png" alt="Prince Kumar Singh Banner" width="100%">
 </p>
-
 <h1 align="center">Hi 👋, I'm Prince Kumar Singh</h1>
 
 <h3 align="center">
