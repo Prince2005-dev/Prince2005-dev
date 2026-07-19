@@ -3,10 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Prince%20Kumar%20Singh&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20|%20Python%20Developer%20|%20Java%20Developer&descAlignY=60"/>
 </p>
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=1000&center=true&vCenter=true&width=900&lines=Prince+Kumar+Singh;MCA+Student;DevOps+Engineer;Python+Developer;Java+Developer;Frontend+Developer" />
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Prince Kumar Singh</h1>
 
@@ -22,7 +19,7 @@ MCA Student • DevOps Enthusiast • Python Developer • Java Developer • Fr
 
 # 💫 About Me
 
-<img align="right" height="280" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" height="280" src="https://chatgpt.com/s/m_6a5c7ef923f08191a4443b2685987c53"/>
 
 🎓 MCA Student
 
