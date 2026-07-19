@@ -69,12 +69,6 @@ MCA Student • DevOps Enthusiast • Python Developer • Java Developer • Fr
 
 </p>
 
-<p align="center">
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince2005-dev&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
 ---
 
 # 📈 Contribution Graph
