@@ -1,6 +1,5 @@
-<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Prince%20Kumar%20Singh&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20|%20Python%20Developer%20|%20Java%20Developer&descAlignY=60"/>
+  <img src="https://raw.githubusercontent.com/Prince2005-dev/Prince2005-dev/main/assets/banner.png" width="100%" alt="Prince Kumar Singh Banner"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Prince Kumar Singh</h1>
