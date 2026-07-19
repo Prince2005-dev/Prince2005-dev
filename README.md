@@ -1,6 +1,8 @@
+<!-- Banner -->
 <p align="center">
-  <img src="banner.png" alt="Prince Kumar Singh Banner" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Prince%20Kumar%20Singh&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20|%20Python%20Developer%20|%20Java%20Developer&descAlignY=60"/>
 </p>
+
 <h1 align="center">Hi 👋, I'm Prince Kumar Singh</h1>
 
 <h3 align="center">
