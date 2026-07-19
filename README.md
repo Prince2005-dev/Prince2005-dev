@@ -54,7 +54,7 @@ MCA Student • DevOps Enthusiast • Python Developer • Java Developer • Fr
 ### 🛠 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=idea,pycharm,postman,mysql" />
+<img src="https://skillicons.dev/icons?i=idea,pycharm,postman,mysql,vscode" />
 </p>
 
 ---
