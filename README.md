@@ -159,6 +159,3 @@ while(alive){
 
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Prince2005-dev/Prince2005-dev/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
