@@ -87,16 +87,6 @@ MCA Student • DevOps Enthusiast • Python Developer • Java Developer • Fr
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Prince2005-dev&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</p>
-
----
-
 # 🐍 Contribution Snake
 
 <p align="center">
