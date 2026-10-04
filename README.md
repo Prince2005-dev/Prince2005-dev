@@ -8,7 +8,7 @@
 <h1 align="center">Hi 👋, I'm Prince Kumar Singh</h1>
 
 <h3 align="center">
-MCA Student • DevOps Enthusiast • Python Developer • Java Developer • Frontend Developer
+MCA Student | DevOps & Cloud | Linux | Docker | AWS | CI/CD | Python
 </h3>
 
 <p align="center">
