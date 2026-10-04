@@ -20,8 +20,10 @@ MCA Student | DevOps & Cloud | Linux | Docker | AWS | CI/CD | Python
 # 💫 About Me  
 <img align="right" height="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
+  
+🎓  /media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-🎓 MCA Student
+  I'm an MCA student focused on building practical skills in DevOps, Cloud, Linux, containerization, and automation.
 
 💻 Passionate about Software Development & DevOps
 
