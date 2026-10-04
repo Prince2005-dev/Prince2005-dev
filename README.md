@@ -33,7 +33,7 @@ MCA Student | DevOps & Cloud | Linux | Docker | AWS | CI/CD | Python
 
 🐧 Linux Enthusiast
 
-☁️ Learning AWS, Docker, Kubernetes & CI/CD
+☁️ AWS, Docker, Kubernetes & CI/CD
 
 🚀 Goal: Become a Professional DevOps Engineer
 
